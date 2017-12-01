@@ -1,0 +1,24 @@
+#content {
+  width: 80%;
+  margin: 40px auto;
+}
+
+header, footer {
+  background-color: #6b4aad;
+}
+
+#container {
+  margin: 0 auto; /* top value is 0px, everything else auto - centers it */
+  background-color: #ededed;
+  display: flex;
+}
+
+nav {
+  background-color: #abbddb;
+  width: 20%
+}
+
+main {
+  background-color: #ce68d8;
+  width: 80%
+}
